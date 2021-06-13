@@ -1,0 +1,23 @@
+{
+  "name": "leaderboards",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "next",
+    "attractions": "^3.3.0",
+    "postcss": "^8.3.2",
+    "sass": "^1.34.1",
+    "svelte": "^3.35.0",
+    "svelte-preprocess": "^4.7.3",
+    "typescript": "^4.2.3",
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "svelte-routing": "^1.5.0"
+  }
+}
